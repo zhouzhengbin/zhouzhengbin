@@ -1,2 +1,3 @@
 # Matrix Site Auto Deployment Repository
-系统已自动激活仓库。
+
+此仓库已通过发射器初始化。
